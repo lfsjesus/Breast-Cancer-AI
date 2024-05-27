@@ -12,6 +12,6 @@ pip install -r requirements.txt
 
 ## Running the project
 
-To run the project you can open the file `breast_cancer.ipynb` in Jupyter Notebook or in a IDE that supports Jupyter Notebooks (e.g. Visual Studio Code). 
+To run the project you can open the file `breast_cancer.ipynb` (`src` directory) in Jupyter Notebook or in a IDE that supports Jupyter Notebooks (e.g. Visual Studio Code). Then, you just need to run all the cells in the notebook.
 
 
